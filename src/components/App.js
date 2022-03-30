@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import PrimarySearchAppBar from "./PrimarySearchAppBar";
 import AppCard from "./AppCard";
 import Data from "../data";
